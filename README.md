@@ -1,7 +1,10 @@
+![logo](https://github.com/Amanullahmemon75/Amanullahmemon75/blob/main/Screenshot%20(31).png)
 <h1 align="center">Hi 👋, I'm Amaullah</h1>
 <h3 align="center">A passionate Data scientist from Pakistan</h3>
 
-<img align ="right" alt ="coding" width ="400" src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3SWBsIagsgjBmP1GJlK8Ks&ust=1704379053393000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPj10_K4wYMDFQAAAAAdAAAAABAE">
+<imgalign ="right"alt="Coding"width="400"src="![image](https://github.com/Amanullahmemon75/Amanullahmemon75/assets/145485694/3274d48e-cae9-4864-8dce-31e78a107bc3)
+">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanullahmemon75&label=Profile%20views&color=0e75b6&style=flat" alt="amanullahmemon75" /> </p>
 
